@@ -1,0 +1,11 @@
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.nc
+results/models/*.pt
+results/models/*.pkl
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
